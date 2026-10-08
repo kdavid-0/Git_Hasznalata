@@ -1,2 +1,2 @@
 # Git_Hasznalata
-# Módosítunk egy kicsit
+Módosítunk egy kicsit
