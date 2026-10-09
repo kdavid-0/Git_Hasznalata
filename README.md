@@ -1,3 +1,3 @@
 # Git_Hasznalata
 Módosítunk egy kicsit
-szekszelnék vleled te kis freaky femboy
+# szekszelnék vleled te kis freaky femboy
